@@ -1,11 +1,11 @@
 # Site settings
-author: CLIFF CRELIN
-title: 
+author: Cliff Crelin
+title: My Software Engineering Journey 
 header-img: img/home-bg.png
 email: cliff.crelin@gmail.com
-copyright_name: CLIFF CRELIN
+copyright_name: Cliff Crelin
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Journey 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  CCrelin
